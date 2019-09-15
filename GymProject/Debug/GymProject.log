@@ -1,0 +1,17 @@
+﻿  Gmain.cpp
+c:\users\parkjiupy\desktop\algorithm\gymproject\gymproject\gmain.cpp(99): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\parkjiupy\desktop\algorithm\gymproject\gymproject\gmain.cpp(128): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\parkjiupy\desktop\algorithm\gymproject\gymproject\gmain.cpp(199): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\parkjiupy\desktop\algorithm\gymproject\gymproject\gmain.cpp(322): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\parkjiupy\desktop\algorithm\gymproject\gymproject\gmain.cpp(402): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\parkjiupy\desktop\algorithm\gymproject\gymproject\gmain.cpp(409): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\parkjiupy\desktop\algorithm\gymproject\gymproject\gmain.cpp(432): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\parkjiupy\desktop\algorithm\gymproject\gymproject\gmain.cpp(444): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\parkjiupy\desktop\algorithm\gymproject\gymproject\gmain.cpp(492): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\parkjiupy\desktop\algorithm\gymproject\gymproject\gmain.cpp(555): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\parkjiupy\desktop\algorithm\gymproject\gymproject\gmain.cpp(573): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\parkjiupy\desktop\algorithm\gymproject\gymproject\gmain.cpp(686): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\parkjiupy\desktop\algorithm\gymproject\gymproject\gmain.cpp(793): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\parkjiupy\desktop\algorithm\gymproject\gymproject\gmain.cpp(824): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  GymProject.vcxproj -> C:\Users\ParkJiuPy\Desktop\Algorithm\GymProject\Debug\GymProject.exe
+  GymProject.vcxproj -> C:\Users\ParkJiuPy\Desktop\Algorithm\GymProject\Debug\GymProject.pdb (Partial PDB)
